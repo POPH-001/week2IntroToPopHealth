@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "week2.html#introduction",
+    "href": "week2.html#introduction",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Introduction",
+    "text": "Introduction\n\nDefinition of Health Events: Disease outbreaks, chronic conditions, injuries, and health behaviors.\nImportance of Comparisons: Understanding disparities, identifying risk factors, guiding public health interventions.\nKey Concepts: Population health, epidemiology, and biostatistics."
+  },
+  {
+    "objectID": "week2.html#objectives-of-population-health",
+    "href": "week2.html#objectives-of-population-health",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Objectives of Population Health",
+    "text": "Objectives of Population Health\nFour Key Objectives:\n\nDescribe: Understand population-level health outcomes.\n\nExplain: Identify determinants and drivers of health outcomes.\n\nPredict: Anticipate future health trends and patterns.\n\nControl: Implement interventions to improve outcomes."
+  },
+  {
+    "objectID": "week2.html#historical-context",
+    "href": "week2.html#historical-context",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Historical Context",
+    "text": "Historical Context\nKey Figures:\n\nJohn Snow: Cholera outbreak mapping.\n\nIgnaz Semmelweis: Importance of handwashing.\n\nJoseph Goldberger: Nutritional causes of pellagra."
+  },
+  {
+    "objectID": "week2.html#type-of-comparisons",
+    "href": "week2.html#type-of-comparisons",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Type of Comparisons",
+    "text": "Type of Comparisons\nTime-Based\n\nKey Metrics:\n\nIncidence: New cases over time.\nPrevalence: Existing cases at a given time."
+  },
+  {
+    "objectID": "week2.html#measures-of-comparison",
+    "href": "week2.html#measures-of-comparison",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Measures of Comparison",
+    "text": "Measures of Comparison\nKey Metrics:\n\nAge-Standardized Rates: Adjusted to eliminate age structure differences.\nAttributable Risk: Measures the impact of specific risk factors on outcomes."
+  },
+  {
+    "objectID": "week2.html#levels-of-analysis",
+    "href": "week2.html#levels-of-analysis",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Levels of Analysis",
+    "text": "Levels of Analysis\nFrameworks:\n\nIndividual-Level: Biostatistical and clinical trials.\nPopulation-Level: Geographic and demographic patterns."
+  },
+  {
+    "objectID": "week2.html#determinants-of-health",
+    "href": "week2.html#determinants-of-health",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Determinants of Health",
+    "text": "Determinants of Health\nCategories:\n\nSocial and Economic Factors\nEnvironmental Conditions\nBehavioral and Genetic Influences"
+  },
+  {
+    "objectID": "week2.html#challenges-in-comparisons",
+    "href": "week2.html#challenges-in-comparisons",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Challenges in Comparisons",
+    "text": "Challenges in Comparisons\nKey Challenges:\n\nData Quality: Inaccuracies or incomplete datasets.\n\nEthical Considerations: Privacy and fair comparisons."
+  },
+  {
+    "objectID": "week2.html#population-vs.-community-health-assessments",
+    "href": "week2.html#population-vs.-community-health-assessments",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Population vs. Community Health Assessments",
+    "text": "Population vs. Community Health Assessments\nKey Differences:\n\nCommunity Health Assessments:\n\nFocus on local needs/resources.\nQualitative methods (e.g., interviews).\n\nPopulation Health Assessments:\n\nBroad, systemic focus.\n\nQuantitative data (e.g., chronic disease rates).\n\n\nExample:\n\nCommunity: Identifying food deserts.\n\nPopulation: Obesity prevalence across counties."
+  },
+  {
+    "objectID": "week2.html#policy-implications",
+    "href": "week2.html#policy-implications",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Policy Implications",
+    "text": "Policy Implications\nUsing Comparisons to Drive Change:\n\nSet Priorities: Identify at-risk groups (e.g., elderly, low-income communities).\n\nDevelop Interventions: Targeted programs (e.g., tobacco cessation).\n\nAdvocate for Policy Change: Use data for systemic reforms.\n\nVisual:\n\nFlowchart illustrating how data-driven comparisons inform resource allocation."
+  },
+  {
+    "objectID": "week2.html#interactive-example",
+    "href": "week2.html#interactive-example",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Interactive Example",
+    "text": "Interactive Example\nDataset Example:\n\n\n\nPopulation\nCases\nRate (per 100,000)\n\n\n\n\nUrban\n200\n50\n\n\nRural\n300\n75\n\n\n\nPrompt:\n\n“What does this suggest about resource allocation?”"
+  },
+  {
+    "objectID": "week2.html#recap-and-transition",
+    "href": "week2.html#recap-and-transition",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Recap and Transition",
+    "text": "Recap and Transition\nKey Takeaways:\n\nImportance of describing, explaining, predicting, and controlling health events.\n\nTools and methods to compare health outcomes.\n\nPractical implications for population health strategies.\n\nNext:\n\nGroup activity: Apply concepts to a real-world health disparity."
+  },
+  {
+    "objectID": "week2.html#group-activity-population-health-comparison",
+    "href": "week2.html#group-activity-population-health-comparison",
+    "title": "Comparing Health Events in Populations: A Framework for Analysis",
+    "section": "Group Activity: Population Health Comparison",
+    "text": "Group Activity: Population Health Comparison\nObjective:\nApply Chapter 1 concepts to analyze health disparities.\nInstructions:\n\nForm groups of 3–5.\n\nAnalyze the provided dataset:\n\nCalculate rates (e.g., incidence, prevalence).\n\nIdentify disparities (e.g., geographic, demographic).\n\nPropose targeted interventions.\n\nPrepare to present findings in 3 minutes.\n\nMaterials:\n\nPreloaded Excel/Google Sheets or printed tables.\n\nCalculators or online tools."
+  }
+]
