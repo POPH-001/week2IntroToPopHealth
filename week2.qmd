@@ -1,0 +1,207 @@
+---
+title: "Comparing Health Events in Populations: A Framework for Analysis"
+author: "Eric Delmelle"
+format:
+  revealjs: default
+  pdf: default
+---
+
+![](week2_files/imgs/banner.jpg){fig-align="center" width="70%"}
+
+------------------------------------------------------------------------
+
+## [**Introduction**]{style="color: teal;"}
+
+-   **Definition of Health Events**: Disease outbreaks, chronic conditions, injuries, and health behaviors.
+-   **Importance of Comparisons**: Understanding disparities, identifying risk factors, guiding public health interventions.
+-   **Key Concepts**: Population health, epidemiology, and biostatistics.
+
+------------------------------------------------------------------------
+
+## [**Objectives of Population Health**]{style="color: teal;"}
+
+### [**Four Key Objectives**]{style="color: pink;"}:
+
+1.  **Describe**: Understand population-level health outcomes.\
+2.  **Explain**: Identify determinants and drivers of health outcomes.\
+3.  **Predict**: Anticipate future health trends and patterns.\
+4.  **Control**: Implement interventions to improve outcomes.
+
+------------------------------------------------------------------------
+
+## [**Historical Context**]{style="color: teal;"}
+
+### [**Key Figures**]{style="color: pink;"}:
+
+-   **John Snow**: Cholera outbreak mapping.\
+-   **Ignaz Semmelweis**: Importance of handwashing.\
+-   **Joseph Goldberger**: Nutritional causes of pellagra.
+
+------------------------------------------------------------------------
+
+## [**Type of Comparisons**]{style="color: teal;"}
+
+### [**Time-Based**]{style="color: pink;"}
+
+![](week2_files/imgs/timeBased.jpg){fig-align="center" width="70%"}
+
+#### Key Metrics:
+
+-   **Incidence**: New cases over time.
+-   **Prevalence**: Existing cases at a given time.
+
+------------------------------------------------------------------------
+
+### [**Place-Based**]{style="color: pink;"}
+
+![](week2_files/imgs/placeBased.jpg){fig-align="center" width="70%"}
+
+#### Example:
+
+-   **Urban vs. Rural Heart Disease Mortality**:
+    -   Urban: 50 per 100,000.\
+    -   Rural: 75 per 100,000.
+
+------------------------------------------------------------------------
+
+### [**Group-Based**]{style="color: pink;"}
+
+#### Example:
+
+-   Health disparities by race, age, and income. ![](week2_files/imgs/covid19.png){fig-align="center" width="70%"}
+
+------------------------------------------------------------------------
+
+### [**Event-Based**]{style="color: pink;"}
+
+#### Key Concept:
+
+-   Natural experiments: Before vs. after policy changes or interventions. ![](week2_files/imgs/polio.jpg){fig-align="center" width="70%"}
+
+------------------------------------------------------------------------
+
+### [**Additional Event-Based Example**]{style="color: pink;"}
+
+![](week2_files/imgs/polio2.jpg){fig-align="center" width="70%"}
+
+------------------------------------------------------------------------
+
+## [**Measures of Comparison**]{style="color: teal;"}
+
+### [**Key Metrics**]{style="color: pink;"}:
+
+-   **Age-Standardized Rates**: Adjusted to eliminate age structure differences.
+-   **Attributable Risk**: Measures the impact of specific risk factors on outcomes.
+
+------------------------------------------------------------------------
+
+## [**Levels of Analysis**]{style="color: teal;"}
+
+### [**Frameworks**]{style="color: pink;"}:
+
+-   **Individual-Level**: Biostatistical and clinical trials.
+-   **Population-Level**: Geographic and demographic patterns.
+
+------------------------------------------------------------------------
+
+## [**Determinants of Health**]{style="color: teal;"}
+
+### [**Categories**]{style="color: pink;"}:
+
+1.  **Social and Economic Factors**
+2.  **Environmental Conditions**
+3.  **Behavioral and Genetic Influences**
+
+------------------------------------------------------------------------
+
+## [**Challenges in Comparisons**]{style="color: teal;"}
+
+### [**Key Challenges**]{style="color: pink;"}:
+
+-   **Data Quality**: Inaccuracies or incomplete datasets.\
+-   **Ethical Considerations**: Privacy and fair comparisons.
+
+------------------------------------------------------------------------
+
+## [**Population vs. Community Health Assessments**]{style="color: teal;"}
+
+### [**Key Differences**]{style="color: pink;"}:
+
+-   **Community Health Assessments**:
+    -   Focus on local needs/resources.
+    -   Qualitative methods (e.g., interviews).
+-   **Population Health Assessments**:
+    -   Broad, systemic focus.\
+    -   Quantitative data (e.g., chronic disease rates).
+
+#### Example:
+
+-   Community: Identifying food deserts.\
+-   Population: Obesity prevalence across counties.
+
+------------------------------------------------------------------------
+
+## [**Policy Implications**]{style="color: teal;"}
+
+### [**Using Comparisons to Drive Change**]{style="color: pink;"}:
+
+1.  **Set Priorities**: Identify at-risk groups (e.g., elderly, low-income communities).\
+2.  **Develop Interventions**: Targeted programs (e.g., tobacco cessation).\
+3.  **Advocate for Policy Change**: Use data for systemic reforms.
+
+#### Visual:
+
+-   Flowchart illustrating how data-driven comparisons inform resource allocation.
+
+------------------------------------------------------------------------
+
+## [**Interactive Example**]{style="color: teal;"}
+
+### [**Dataset Example**]{style="color: pink;"}:
+
+| Population | Cases | Rate (per 100,000) |
+|------------|-------|--------------------|
+| Urban      | 200   | 50                 |
+| Rural      | 300   | 75                 |
+
+#### Prompt:
+
+-   "What does this suggest about resource allocation?"
+
+------------------------------------------------------------------------
+
+## [**Recap and Transition**]{style="color: teal;"}
+
+### [**Key Takeaways**]{style="color: pink;"}:
+
+-   Importance of describing, explaining, predicting, and controlling health events.\
+-   Tools and methods to compare health outcomes.\
+-   Practical implications for population health strategies.
+
+#### Next:
+
+-   Group activity: Apply concepts to a real-world health disparity.
+
+------------------------------------------------------------------------
+
+## [**Group Activity: Population Health Comparison**]{style="color: teal;"}
+
+### [**Objective**]{style="color: pink;"}:
+
+Apply Chapter 1 concepts to analyze health disparities.
+
+### [**Instructions**]{style="color: pink;"}:
+
+1.  Form groups of 3--5.\
+2.  Analyze the provided dataset:
+    -   Calculate rates (e.g., incidence, prevalence).\
+    -   Identify disparities (e.g., geographic, demographic).\
+    -   Propose targeted interventions.
+3.  Prepare to present findings in 3 minutes.
+
+### [**Materials**]{style="color: pink;"}:
+
+-   Preloaded Excel/Google Sheets or printed tables.\
+-   Calculators or online tools.
+
+------------------------------------------------------------------------
