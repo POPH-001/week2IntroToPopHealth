@@ -76,7 +76,9 @@ format:
 
 #### Key Concept:
 
--   Natural experiments: Before vs. after policy changes or interventions. ![](week2_files/imgs/polio.jpg){fig-align="center" width="70%"}
+-   Natural experiments: Before vs. after policy changes or interventions. 
+
+![](week2_files/imgs/polio.jpg){fig-align="center" width="70%"}
 
 ------------------------------------------------------------------------
 
@@ -134,6 +136,12 @@ format:
     -   Broad, systemic focus.\
     -   Quantitative data (e.g., chronic disease rates).
 
+
+------------------------------------------------------------------------
+
+## [**Population vs. Community Health Assessments**]{style="color: teal;"}
+
+
 #### Example:
 
 -   Community: Identifying food deserts.\
@@ -149,9 +157,15 @@ format:
 2.  **Develop Interventions**: Targeted programs (e.g., tobacco cessation).\
 3.  **Advocate for Policy Change**: Use data for systemic reforms.
 
+
+
+------------------------------------------------------------------------
+
+## [**Policy Implications**]{style="color: teal;"}
+
 #### Visual:
 
--   Flowchart illustrating how data-driven comparisons inform resource allocation.
+![](week2_files/imgs/dataDrivenComparison.png){fig-align="center" width="80%"}
 
 ------------------------------------------------------------------------
 
@@ -186,14 +200,23 @@ format:
 
 ## [**Group Activity: Population Health Comparison**]{style="color: teal;"}
 
+
 ### [**Objective**]{style="color: pink;"}:
 
-Apply Chapter 1 concepts to analyze health disparities.
+Apply Chapter 1 metrics to analyze health disparities.
 
 ### [**Instructions**]{style="color: pink;"}:
 
 1.  Form groups of 3--5.\
-2.  Analyze the provided dataset:
+
+
+------------------------------------------------------------------------
+
+
+### [**Instructions**]{style="color: pink;"}:
+
+
+2.  Analyze the provided dataset on coursesite
     -   Calculate rates (e.g., incidence, prevalence).\
     -   Identify disparities (e.g., geographic, demographic).\
     -   Propose targeted interventions.
@@ -201,7 +224,7 @@ Apply Chapter 1 concepts to analyze health disparities.
 
 ### [**Materials**]{style="color: pink;"}:
 
--   Preloaded Excel/Google Sheets or printed tables.\
--   Calculators or online tools.
+-   Preloaded Excel on course sites\
+
 
 ------------------------------------------------------------------------
