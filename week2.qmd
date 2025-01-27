@@ -228,3 +228,37 @@ Apply Chapter 1 metrics to analyze health disparities.
 
 
 ------------------------------------------------------------------------
+
+## Group Assignments and Analysis Instructions
+
+::: {.columns}
+
+::: {.column width="45%" style="font-size: 18px; line-height: 1.2;"}
+
+- **Group A**: Kayla H., Sammie C., Chloe L., Henry S., Vedanth V.  
+- **Group B**: Prashant K., Lillian L., Ashley P., Cate M., Emily T.  
+- **Group C**: Shriya P., Evy W., Caithlyn C., Grace S.  
+- **Group D**: Chris C., Olivia N., Aaron C., Lola S., Alicia A.  
+- **Group E**: Elmira S., Sebastian S., Mina C., Hudson K., Marwa A.  
+- **Group F**: Abena A., Xiomara G., Natalie W., Neves H.  
+- **Group G**: Sophie P., Jessica L.,Joy L., , Vladimir V.
+
+:::
+
+::: {.column width="55%" style="font-size: 20px; line-height: 1.4;"}
+
+### Analysis Instructions
+
+- **Analyze the provided dataset on coursesite**:  
+  - Calculate rates (e.g., incidence, prevalence).  
+  - Identify disparities (e.g., geographic, demographic).  
+  - Propose targeted interventions.  
+
+- **Presentation Guidelines**:  
+  - Prepare findings for a **3-minute presentation**.  
+  - Include key calculations, identified disparities, and proposed interventions.
+
+:::
+
+:::
+------------------------------------------------------------------------
