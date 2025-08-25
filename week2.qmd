@@ -1,6 +1,6 @@
 ---
 title: "Comparing Health Events in Populations: A Framework for Analysis"
-author: "Eric Delmelle"
+author: "Eric Delmelle <br> August 28 and September 2 2025"
 format:
   revealjs: default
   pdf: default
