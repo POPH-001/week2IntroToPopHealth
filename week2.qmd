@@ -1,6 +1,6 @@
 ---
 title: "Comparing Health Events in Populations: A Framework for Analysis"
-author: "Eric Delmelle <br> August 28 and September 2 2025"
+author: "Eric Delmelle <br> September 2 and September 5 2025"
 format:
   revealjs: default
   pdf: default
@@ -207,7 +207,7 @@ Apply Chapter 1 metrics to analyze health disparities.
 
 ### [**Instructions**]{style="color: pink;"}:
 
-1.  Form groups of 3--5.\
+1.  Form groups of 5 (see groupe in 2 slides).\
 
 
 ------------------------------------------------------------------------
@@ -222,9 +222,6 @@ Apply Chapter 1 metrics to analyze health disparities.
     -   Propose targeted interventions.
 3.  Prepare to present findings in 3 minutes.
 
-### [**Materials**]{style="color: pink;"}:
-
--   Preloaded Excel on course sites\
 
 
 ------------------------------------------------------------------------
@@ -235,13 +232,12 @@ Apply Chapter 1 metrics to analyze health disparities.
 
 ::: {.column width="45%" style="font-size: 18px; line-height: 1.2;"}
 
-- **Group A**: Kayla H., Sammie C., Chloe L., Henry S., Vedanth V.  
-- **Group B**: Prashant K., Lillian L., Ashley P., Cate M., Emily T.  
-- **Group C**: Shriya P., Evy W., Caithlyn C., Grace S.  
-- **Group D**: Chris C., Olivia N., Aaron C., Lola S., Alicia A.  
-- **Group E**: Elmira S., Sebastian S., Mina C., Hudson K., Marwa A.  
-- **Group F**: Abena A., Xiomara G., Natalie W., Neves H.  
-- **Group G**: Sophie P., Jessica L.,Joy L., , Vladimir V.
+- Group **John Snow** (5): Dhyana Abeysinghe; Nora Albright; Jaimie Alva; Carrie Rothman; Mikaela Villajoaquin
+- Group **Pasteur** (5): Cameron Driscoll; Kendall-Marie Fitzgerald; Mia Freeman; Alex Sawh; Juliea Zhao
+- Group **Nightingale** (5): Maria Garcia Rodriguez; Sarah Haque; Daniel Hughes; Emily Snyder; Keira Conway
+- Group **Gupta** (5): Anna Jones; Nora Kerrigan; Phillip Kim; Alana Thomforde; Herve Sanon
+- Group **Fauci** (6): Mariana King; Esther Lee; Nicole Mejias; Aili Tutschek; Christos Vlanti; Maya Bjorneby
+- Group **Wakefield** (5):Samantha Pfeffer; Harnek Purewal; Mary Reed; Bibian Verdugo; Mackenzie Barlow
 
 :::
 
