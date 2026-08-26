@@ -1,6 +1,6 @@
 ---
 title: "Comparing Health Events in Populations: A Framework for Analysis"
-author: "Eric Delmelle <br> September 2 and September 5 2025"
+author: "Eric Delmelle"
 format:
   revealjs: default
   pdf: default
@@ -76,7 +76,7 @@ format:
 
 #### Key Concept:
 
--   Natural experiments: Before vs. after policy changes or interventions. 
+-   Natural experiments: Before vs. after policy changes or interventions.
 
 ![](week2_files/imgs/polio.jpg){fig-align="center" width="70%"}
 
@@ -136,11 +136,9 @@ format:
     -   Broad, systemic focus.\
     -   Quantitative data (e.g., chronic disease rates).
 
-
 ------------------------------------------------------------------------
 
 ## [**Population vs. Community Health Assessments**]{style="color: teal;"}
-
 
 #### Example:
 
@@ -156,8 +154,6 @@ format:
 1.  **Set Priorities**: Identify at-risk groups (e.g., elderly, low-income communities).\
 2.  **Develop Interventions**: Targeted programs (e.g., tobacco cessation).\
 3.  **Advocate for Policy Change**: Use data for systemic reforms.
-
-
 
 ------------------------------------------------------------------------
 
@@ -200,7 +196,6 @@ format:
 
 ## [**Group Activity: Population Health Comparison**]{style="color: teal;"}
 
-
 ### [**Objective**]{style="color: pink;"}:
 
 Apply Chapter 1 metrics to analyze health disparities.
@@ -209,12 +204,9 @@ Apply Chapter 1 metrics to analyze health disparities.
 
 1.  Form groups of 5 (see groupe in 2 slides).\
 
-
 ------------------------------------------------------------------------
 
-
 ### [**Instructions**]{style="color: pink;"}:
-
 
 2.  Analyze the provided dataset on coursesite
     -   Calculate rates (e.g., incidence, prevalence).\
@@ -222,39 +214,19 @@ Apply Chapter 1 metrics to analyze health disparities.
     -   Propose targeted interventions.
 3.  Prepare to present findings in 3 minutes.
 
-
-
 ------------------------------------------------------------------------
 
 ## Group Assignments and Analysis Instructions
 
-::: {.columns}
-
-::: {.column width="45%" style="font-size: 18px; line-height: 1.2;"}
-
-- Group **John Snow** (5): Dhyana Abeysinghe; Nora Albright; Jaimie Alva; Carrie Rothman; Mikaela Villajoaquin
-- Group **Pasteur** (5): Cameron Driscoll; Kendall-Marie Fitzgerald; Mia Freeman; Alex Sawh; Juliea Zhao
-- Group **Nightingale** (5): Maria Garcia Rodriguez; Sarah Haque; Daniel Hughes; Emily Snyder; Keira Conway
-- Group **Gupta** (5): Anna Jones; Nora Kerrigan; Phillip Kim; Alana Thomforde; Herve Sanon
-- Group **Fauci** (6): Mariana King; Esther Lee; Nicole Mejias; Aili Tutschek; Christos Vlanti; Maya Bjorneby
-- Group **Wakefield** (5):Samantha Pfeffer; Harnek Purewal; Mary Reed; Bibian Verdugo; Mackenzie Barlow
-
-:::
-
+:::: columns
 ::: {.column width="55%" style="font-size: 20px; line-height: 1.4;"}
-
 ### Analysis Instructions
 
-- **Analyze the provided dataset on coursesite**:  
-  - Calculate rates (e.g., incidence, prevalence).  
-  - Identify disparities (e.g., geographic, demographic).  
-  - Propose targeted interventions.  
-
-- **Presentation Guidelines**:  
-  - Prepare findings for a **3-minute presentation**.  
-  - Include key calculations, identified disparities, and proposed interventions.
-
+-   **Analyze the provided dataset on coursesite**:
+    -   Calculate rates (e.g., incidence, prevalence).
+    -   Identify disparities (e.g., geographic, demographic).
+    -   Propose targeted interventions.
 :::
+::::
 
-:::
 ------------------------------------------------------------------------
